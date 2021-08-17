@@ -1,0 +1,2 @@
+# MoviesApp
+rUsing React, redux
