@@ -1,0 +1,16 @@
+.header-movies {
+  border-bottom: 1px solid #e8e8e8;
+  color: #333;
+  border-left: 2px solid #f2f2f2;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.header-movies .row{
+  align-items: center;
+  justify-content: space-between;
+}
+
+.form-control{
+  appearance :auto;
+}
